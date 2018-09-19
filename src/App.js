@@ -22,7 +22,7 @@ class App extends Component {
         </header>
         {/*<p className="App-intro">
           To get started, edit <code>src/App.js</code> and save to reload.
-        </p> */}
+    </p> */}
         <Hello/>
         <Image />
         <Image src1='https://www.w3schools.com/html/img_girl.jpg' title='girl' />
